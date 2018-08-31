@@ -3,4 +3,8 @@ the two moons may be a problem for Wolfman
 but the Mummy will appreciate the lack of humidity
 a little bit dusty
 Rhymes with cars
+<<<<<<< HEAD
 We added a different line in the other copy
+=======
+This line added to Wolfman's copy
+>>>>>>> b6d08ad9663c515c3840bd078c8f5827e127e2d7
